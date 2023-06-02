@@ -45,7 +45,7 @@ header .conatiner {
 }
 .location-desc .fa-sort-down{
     transform: translate(-.2rem);
-    padding-left: 5rem;
+    padding-left: .5rem;
 
 }
 .location, .login, .cart  { 
